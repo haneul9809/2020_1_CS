@@ -1,0 +1,6 @@
+C:\Users\최하늘\source\repos\V01_LevelTest\B01_IO\bin\Debug\B01_IO.exe.config
+C:\Users\최하늘\source\repos\V01_LevelTest\B01_IO\bin\Debug\B01_IO.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B01_IO\bin\Debug\B01_IO.pdb
+C:\Users\최하늘\source\repos\V01_LevelTest\B01_IO\obj\Debug\B01_IO.csprojAssemblyReference.cache
+C:\Users\최하늘\source\repos\V01_LevelTest\B01_IO\obj\Debug\B01_IO.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B01_IO\obj\Debug\B01_IO.pdb

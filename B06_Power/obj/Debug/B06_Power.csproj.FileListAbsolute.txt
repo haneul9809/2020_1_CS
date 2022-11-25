@@ -1,0 +1,5 @@
+C:\Users\최하늘\source\repos\V01_LevelTest\B06_Power\bin\Debug\B06_Power.exe.config
+C:\Users\최하늘\source\repos\V01_LevelTest\B06_Power\bin\Debug\B06_Power.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B06_Power\bin\Debug\B06_Power.pdb
+C:\Users\최하늘\source\repos\V01_LevelTest\B06_Power\obj\Debug\B06_Power.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B06_Power\obj\Debug\B06_Power.pdb

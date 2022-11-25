@@ -1,0 +1,5 @@
+C:\Users\최하늘\source\repos\V01_LevelTest\B03_Realitional\bin\Debug\B03_Realitional.exe.config
+C:\Users\최하늘\source\repos\V01_LevelTest\B03_Realitional\bin\Debug\B03_Realitional.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B03_Realitional\bin\Debug\B03_Realitional.pdb
+C:\Users\최하늘\source\repos\V01_LevelTest\B03_Realitional\obj\Debug\B03_Realitional.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B03_Realitional\obj\Debug\B03_Realitional.pdb

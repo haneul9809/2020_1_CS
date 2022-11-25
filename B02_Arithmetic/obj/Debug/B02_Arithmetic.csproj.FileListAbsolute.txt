@@ -1,0 +1,5 @@
+C:\Users\최하늘\source\repos\V01_LevelTest\B02_Arithmetic\bin\Debug\B02_Arithmetic.exe.config
+C:\Users\최하늘\source\repos\V01_LevelTest\B02_Arithmetic\bin\Debug\B02_Arithmetic.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B02_Arithmetic\bin\Debug\B02_Arithmetic.pdb
+C:\Users\최하늘\source\repos\V01_LevelTest\B02_Arithmetic\obj\Debug\B02_Arithmetic.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B02_Arithmetic\obj\Debug\B02_Arithmetic.pdb

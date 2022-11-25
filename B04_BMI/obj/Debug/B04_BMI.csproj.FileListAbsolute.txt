@@ -1,0 +1,5 @@
+C:\Users\최하늘\source\repos\V01_LevelTest\B04_BMI\bin\Debug\B04_BMI.exe.config
+C:\Users\최하늘\source\repos\V01_LevelTest\B04_BMI\bin\Debug\B04_BMI.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B04_BMI\bin\Debug\B04_BMI.pdb
+C:\Users\최하늘\source\repos\V01_LevelTest\B04_BMI\obj\Debug\B04_BMI.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B04_BMI\obj\Debug\B04_BMI.pdb

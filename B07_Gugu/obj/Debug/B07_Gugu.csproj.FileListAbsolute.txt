@@ -1,0 +1,6 @@
+C:\Users\최하늘\source\repos\V01_LevelTest\B07_Gugu\obj\Debug\B07_Gugu.csprojAssemblyReference.cache
+C:\Users\최하늘\source\repos\V01_LevelTest\B07_Gugu\bin\Debug\B07_Gugu.exe.config
+C:\Users\최하늘\source\repos\V01_LevelTest\B07_Gugu\bin\Debug\B07_Gugu.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B07_Gugu\bin\Debug\B07_Gugu.pdb
+C:\Users\최하늘\source\repos\V01_LevelTest\B07_Gugu\obj\Debug\B07_Gugu.exe
+C:\Users\최하늘\source\repos\V01_LevelTest\B07_Gugu\obj\Debug\B07_Gugu.pdb

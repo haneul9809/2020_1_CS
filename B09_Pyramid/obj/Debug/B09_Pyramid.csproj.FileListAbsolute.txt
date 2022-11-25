@@ -1,0 +1,6 @@
+C:\Users\최하늘\Desktop\V01_LevelTest\B09_Pyramid\bin\Debug\B09_Pyramid.exe.config
+C:\Users\최하늘\Desktop\V01_LevelTest\B09_Pyramid\bin\Debug\B09_Pyramid.exe
+C:\Users\최하늘\Desktop\V01_LevelTest\B09_Pyramid\bin\Debug\B09_Pyramid.pdb
+C:\Users\최하늘\Desktop\V01_LevelTest\B09_Pyramid\obj\Debug\B09_Pyramid.csprojAssemblyReference.cache
+C:\Users\최하늘\Desktop\V01_LevelTest\B09_Pyramid\obj\Debug\B09_Pyramid.exe
+C:\Users\최하늘\Desktop\V01_LevelTest\B09_Pyramid\obj\Debug\B09_Pyramid.pdb
